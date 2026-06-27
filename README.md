@@ -1,2 +1,39 @@
-# 766cc326-ppc-paid-advertising-search
-Stop manually hunting for PPC opportunities while your competitors automate their entire paid advertising workflow. The PPC &amp; Paid Advertising Search and Discovery API gives you programmatic access to real-time keyword intelligence, competitor bid strategies, and high-intent search signals—so you can scale your campaigns without scaling your team.
+# PPC & Paid Advertising Search and Discovery API
+
+> Api Product for Ppc Advertising
+
+Stop manually hunting for PPC opportunities while your competitors automate their entire paid advertising workflow. The PPC & Paid Advertising Search and Discovery API gives you programmatic access to real-time keyword intelligence, competitor bid strategies, and high-intent search signals—so you can scale your campaigns without scaling your...
+
+## Features
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| 100 requests/day | ✅ | ✅ |
+| Standard endpoints | ✅ | ✅ |
+| JSON responses | ✅ | ✅ |
+| Unlimited requests | ❌ | ✅ |
+| Premium endpoints | ❌ | ✅ |
+| Batch processing | ❌ | ✅ |
+| Webhook notifications | ❌ | ✅ |
+| SLA guarantee | ❌ | ✅ |
+
+## Get the Full Version
+
+Upgrade to the Pro version for **$29.99** and unlock all premium features.
+
+**[Buy Now (Stripe)](https://buy.stripe.com/9B6dR94ePaQA8FGeM4cZr3L)** — Secure checkout
+
+## Installation
+
+1. Download the latest release from the [Releases page](../../releases)
+2. Extract and follow the setup instructions in the included documentation
+3. For Pro features, enter your license key after purchase
+
+## Support
+
+- Open an [issue](../../issues) for bug reports
+
+## License
+
+Free tier: MIT License for personal and commercial use.
+Pro tier: Commercial license included with purchase.
